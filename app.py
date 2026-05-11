@@ -89,4 +89,4 @@ with tab2:
         st.table(df)
 
 # Footer
-st.markdown("""<div class="footer">Mechanical Engineering Department - 25-ME-115</div>""", unsafe_allow_html=True)
+st.markdown("""<div class="footer">Mechanical Engineering Department - 25-ME-115</div>""", unsafe_allow_html=True)ooter">Mechanical Engineering Department - 25-ME-115</div>""", unsafe_allow_html=True)
